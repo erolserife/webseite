@@ -1,6 +1,8 @@
 baseURL: "https://tergen.org" 
 title: Serife Erol
-theme: PaperMod
+theme: al-folio
+
+#PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
