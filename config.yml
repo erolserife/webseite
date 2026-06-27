@@ -2,8 +2,6 @@ baseURL: "https://tergen.org"
 title: Serife Erol
 theme: hugo-academic (Wowchemy)
 
-#PaperMod
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
